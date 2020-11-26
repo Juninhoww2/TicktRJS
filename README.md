@@ -1,3 +1,3 @@
 # TicktRJS
 
-npm install -- --
+# npm install -- --
